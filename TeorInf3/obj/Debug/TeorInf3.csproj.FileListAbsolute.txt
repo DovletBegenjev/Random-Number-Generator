@@ -1,0 +1,15 @@
+C:\Users\dovle\source\repos\TeorInf3\TeorInf3\bin\Debug\TeorInf3.exe.config
+C:\Users\dovle\source\repos\TeorInf3\TeorInf3\bin\Debug\TeorInf3.exe
+C:\Users\dovle\source\repos\TeorInf3\TeorInf3\bin\Debug\TeorInf3.pdb
+C:\Users\dovle\source\repos\TeorInf3\TeorInf3\obj\Debug\TeorInf3.csprojAssemblyReference.cache
+C:\Users\dovle\source\repos\TeorInf3\TeorInf3\obj\Debug\TeorInf3.csproj.CoreCompileInputs.cache
+C:\Users\dovle\source\repos\TeorInf3\TeorInf3\obj\Debug\TeorInf3.exe
+C:\Users\dovle\source\repos\TeorInf3\TeorInf3\obj\Debug\TeorInf3.pdb
+X:\VS Projects\TeorInf3\TeorInf3\bin\Debug\TeorInf3.exe.config
+X:\VS Projects\TeorInf3\TeorInf3\bin\Debug\TeorInf3.exe
+X:\VS Projects\TeorInf3\TeorInf3\bin\Debug\TeorInf3.pdb
+X:\VS Projects\TeorInf3\TeorInf3\obj\Debug\TeorInf3.csproj.AssemblyReference.cache
+X:\VS Projects\TeorInf3\TeorInf3\obj\Debug\TeorInf3.csproj.SuggestedBindingRedirects.cache
+X:\VS Projects\TeorInf3\TeorInf3\obj\Debug\TeorInf3.csproj.CoreCompileInputs.cache
+X:\VS Projects\TeorInf3\TeorInf3\obj\Debug\TeorInf3.exe
+X:\VS Projects\TeorInf3\TeorInf3\obj\Debug\TeorInf3.pdb
